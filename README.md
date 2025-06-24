@@ -28,13 +28,9 @@ A modern, responsive personal portfolio website template built with HTML, CSS, a
 
 ## How to Use
 
-1. Clone the repository:
-```bash
-git clone https://github.com/sanjaysam410/web_portfolio.git
-```
-2. Open `index.html` in your web browser to view the portfolio.
-3. Browse through the resume, projects, and contact sections.
-4. Download the resume from the assets folder if needed.
+1. Open `index.html` in your web browser to view the portfolio.
+2. Browse through the resume, projects, and contact sections.
+3. Download the resume from the assets folder if needed.
 
 ## Project Structure
 
@@ -59,7 +55,10 @@ portfolio/
 
 ## How to Run Locally
 
-1. Download or clone the repository.
+1. Clone the repository:
+```bash
+git clone https://github.com/sanjaysam410/web_portfolio.git
+```
 2. Open `index.html` in your browser.
 
 ## License
