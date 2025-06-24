@@ -30,7 +30,7 @@ A modern, responsive personal portfolio website template built with HTML, CSS, a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sanjaysam410/Quiz_application.git
+git clone https://github.com/sanjaysam410/web_portfolio.git
 ```
 2. Open `index.html` in your web browser to view the portfolio.
 3. Browse through the resume, projects, and contact sections.
@@ -76,7 +76,7 @@ This project is licensed under the MIT License.
 
 Your Name - SANJAY SAMALA (sanjaysamala4100@gmail.com)
 
-Project Link: https://github.com/sanjaysam410/Quiz_application
+Project Link: https://github.com/sanjaysam410/web_portfolio.git
 
 OUTPUT ::
 <img width="1624" alt="Screenshot 2025-06-24 at 11 10 52 PM" src="https://github.com/user-attachments/assets/11daa89c-246d-4bad-bea3-8871b9ba7f4f" />
